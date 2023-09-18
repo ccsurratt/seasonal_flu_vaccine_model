@@ -1,1 +1,1 @@
-# flu_vaccine_model
+# Seasonal Flu Vaccine Model
