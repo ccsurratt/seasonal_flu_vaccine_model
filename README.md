@@ -1,5 +1,6 @@
 # Seasonal Flu Vaccine Model
 
+![img](./images/vaccine_image.jpeg)
 
 # Business Understanding
 
@@ -51,8 +52,11 @@ For additional information, contact Caroline Surratt via [email](mailto:caroline
 
 ```
 ├── data
+├── images
+├── .gitignore
+├── README.md
 ├── notebook.ipynb
 ├── presentation.pdf
-└── README.md
+└── survey.pdf
 ```
 
